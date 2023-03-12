@@ -1,0 +1,6 @@
+steps:
+  integrationArtifactDownload:
+    cpiApiServiceKeyCredentialsId: cpipocServiceKeyCred
+    integrationFlowId: sender2
+    integrationFlowVersion: 1.0.0
+    downloadPath: ./iflows
